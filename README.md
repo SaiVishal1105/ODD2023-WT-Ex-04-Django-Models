@@ -40,7 +40,7 @@ In admin/page you can view the models created anf in the user_profile template p
 # OUTPUT:
 ![Alt text](../output.png)
 
-![Alt text](<../Screenshot 2023-11-22 205704.png>)
+![Alt text](<../Screenshot 2023-11-22 105635.png>)
 
 
 # RESULT:
