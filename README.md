@@ -9,7 +9,7 @@ Django Models
 
 ## Step 1: Create django project and app using the following commands:
 django-admin startproject mymodels  Python manage.py startapp.
-## Step 2: Create a user_profile modals in modal.py
+## Step 2: Create a user_profile modals in models.py
 
 ![Alt text](<Screenshot 2023-11-22 200554.png>)
 
